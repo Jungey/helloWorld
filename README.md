@@ -1,1 +1,2 @@
-Hello ladies and gentlemen. This is my second time creating a branch, editing, opening pull request and merging the side branch to the master branch.
+Hi world,
+  This is my first local branch in github. I'm trying to learn this hosting platform. See ya
